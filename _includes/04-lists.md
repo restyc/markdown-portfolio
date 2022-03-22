@@ -1,1 +1,5 @@
 Reading books.
+Playing basketball.
+Watching.
+Camping.
+Travelling.
