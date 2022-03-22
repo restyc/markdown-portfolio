@@ -1,5 +1,5 @@
-Reading books.
-Playing basketball.
-Watching.
-Camping.
-Travelling.
+- Reading books
+- Playing basketball
+- Watching
+- Camping
+- Travelling
